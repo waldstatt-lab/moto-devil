@@ -79,7 +79,7 @@ Key bindings are saved next to it in `keys.txt`; delete it to restore the defaul
 ## Play in the browser
 
 Every push to `main` publishes the game to GitHub Pages at
-<https://2raben.github.io/moto-devil/>. It runs in a current
+<https://waldstatt-lab.github.io/moto-devil/>. It runs in a current
 desktop Firefox, Chrome, or Safari with WebGL2, played with the keyboard (or a
 controller, if the browser reports it). Click the field if it does not react to
 keys. Progress and keys are saved in the browser's local storage for that site, as
